@@ -83,8 +83,8 @@ TESTIMONIALS = [
 ]
 
 OFFICES = [
-    {"city": "Frankfurt am Main", "address": "Bockenheimer Landstraße 51, 60325 Frankfurt am Main", "phone": "+49 69 1234 5670", "hours": "Mo–Fr 8:30–18:30 Uhr"},
-    {"city": "Düsseldorf", "address": "Königsallee 60, 40212 Düsseldorf", "phone": "+49 211 9876 540", "hours": "Mo–Fr 9:00–17:30 Uhr"},
+    {"city": "Frankfurt am Main", "address": "Adresse Standort 1", "phone": "Telefonnummer Standort 1", "hours": "Mo–Fr 8:30–18:30 Uhr"},
+    {"city": "Düsseldorf", "address": "Adresse Standort 2", "phone": "Telefonnummer Standort 2", "hours": "Mo–Fr 9:00–17:30 Uhr"},
 ]
 
 PRACTICE_SLUGS = tuple(p["slug"] for p in PRACTICE_AREAS)

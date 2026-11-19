@@ -81,7 +81,7 @@ export function demoPracticeDetail(slug: string): PracticeDetail | null {
 }
 
 export const CONTACT = {
-  phone: "+49 69 1234 5670",
+  phone: "Ihre Telefonnummer hier",
   email: "beratung@sterling-partner.example",
-  address: "Bockenheimer Landstraße 51, Frankfurt am Main",
+  address: "Ihre Adresse hier",
 };

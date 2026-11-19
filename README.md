@@ -2,7 +2,7 @@
 
 **Live-Demo:** https://PHosseini03.github.io/law-firm/ · **Alle Demos:** https://PHosseini03.github.io/website-showcase/
 
-**The whole site is in German** (formal “Sie”, de-DE dates, amounts in €, German addresses and +49 phone numbers, German practice areas such as Arbeitsrecht, Familienrecht and Erbrecht). API error and validation messages are German too.
+**The whole site is in German** (formal “Sie”, de-DE dates, amounts in €, placeholder addresses and phone numbers, German practice areas such as Arbeitsrecht, Familienrecht and Erbrecht). API error and validation messages are German too.
 
 An editorial, magazine-style website for a law firm: deep forest green, cream and brass, with a Newsreader serif and Inter sans. React + TypeScript frontend and a FastAPI backend.
 
